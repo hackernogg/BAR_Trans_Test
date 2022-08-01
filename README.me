@@ -1,0 +1,3 @@
+0.unzip the files to "...\Beyond-All-Reason\data\games\BAR.sdd\language"
+1.click build.cmd
+2.click run_Trans_test.cmd
